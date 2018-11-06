@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image: url(picture/burgers.jpg);
+	background-size:100%;
+}
+
+.die{
+	border: 2px solid black;
+	border-radius:4px;
+	background-color:white;
+	padding:3px 8px;
+}
+
+.square {
+  border: 2px solid black;
+  height: 50px;
+  width: 50px;
+  background-color:grey;
+}
+
